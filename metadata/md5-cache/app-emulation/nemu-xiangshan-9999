@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install postinst prepare unpack
+DEPEND=sys-apps/dtc media-libs/libsdl2 sys-libs/zlib sys-libs/readline:=
+DESCRIPTION=NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
+EAPI=7
+HOMEPAGE=https://github.com/OpenXiangShan/NEMU
+INHERIT=savedconfig readme.gentoo-r1 git-r3
+IUSE=savedconfig savedconfig
+LICENSE=MulanPSL-2.0
+PROPERTIES=live
+RDEPEND=sys-apps/dtc media-libs/libsdl2 sys-libs/zlib sys-libs/readline:=
+SLOT=0
+_eclasses_=portability	d33a77692bb47e8227f27e17fb9c3c05	savedconfig	7cb1bf66b4acedc4f06802a012d3b08d	readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=d5919cb0d5a1f1ae7979f426bd9a5222
