@@ -6,4 +6,4 @@ dev-util/valgrind 9999: An open-source memory debugger for GNU/Linux
 mail-client/thunderbird 94.0_beta1: Thunderbird Mail Client
 sys-apps/kexec-tools 2.0.24: Load another kernel from the currently executing Linux kernel
 www-client/chromium 98.0.4750.0: Open-source version of Google Chrome web browser
-www-client/firefox 98.0.2: Firefox Web Browser
+www-client/firefox 103.0.1: Firefox Web Browser
