@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=U-boot binary firmware which can be used by qemu as bios
+EAPI=8
+HOMEPAGE=https://www.denx.de/project/u-boot/
+KEYWORDS=~amd64 ~riscv
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://dev.gentoo.org/~dlan/distfiles/sys-firmware/u-boot-bin/u-boot-bin-2022.10_rc3.tar.xz
+_md5_=6804485f86997997be07c96b136e2f4b
