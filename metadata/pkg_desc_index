@@ -1,7 +1,6 @@
 app-emulation/kvmtool 9999: A lightweight tool for hosting KVM guests
 app-emulation/nemu-xiangshan 9999: NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
 app-emulation/qtrvsim 0.9.5: RISC-V CPU simulator for education
-app-emulation/spike 1.0.0 9999: The RISC-V ISA Simulator
 dev-qt/qtwebengine 5.15.5_p20220618: Library for rendering dynamic web content in Qt5 C++ and QML applications
 dev-util/valgrind 9999: An open-source memory debugger for GNU/Linux
 mail-client/thunderbird 94.0_beta1: Thunderbird Mail Client
