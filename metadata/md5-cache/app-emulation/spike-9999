@@ -1,11 +1,13 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=prepare unpack
+DEPEND=sys-apps/dtc
 DESCRIPTION=The RISC-V ISA Simulator
 EAPI=8
-HOMEPAGE=https://github.com/riscv/riscv-isa-sim/
-INHERIT=autotools git-r3 multilib
+HOMEPAGE=https://github.com/riscv-software-src/riscv-isa-sim
+INHERIT=git-r3
 LICENSE=BSD
 PROPERTIES=live
+RDEPEND=sys-apps/dtc
 SLOT=0/9999
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=1d9bf1d30da69a85329be62828567470
+_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
+_md5_=fb87ba737e47f8a29869d0d788248eab
