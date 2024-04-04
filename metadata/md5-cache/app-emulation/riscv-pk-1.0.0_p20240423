@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile configure install prepare setup
+DESCRIPTION=RISC-V Proxy Kernel
+EAPI=8
+HOMEPAGE=https://github.com/riscv-software-src/riscv-pk
+KEYWORDS=~amd64
+LICENSE=BSD
+SLOT=0
+SRC_URI=https://github.com/riscv-software-src/riscv-pk/archive/9637e60b96b21a7f85a85bf033b87f64fb823b6c.tar.gz -> riscv-pk-1.0.0_p20240423.tar.gz
+_md5_=5389ebb87007e9e77bcc7e5d8fb3e65d
