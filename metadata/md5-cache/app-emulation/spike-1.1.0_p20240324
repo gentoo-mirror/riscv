@@ -1,0 +1,11 @@
+DEFINED_PHASES=prepare
+DEPEND=sys-apps/dtc
+DESCRIPTION=The RISC-V ISA Simulator
+EAPI=8
+HOMEPAGE=https://github.com/riscv-software-src/riscv-isa-sim
+KEYWORDS=~amd64
+LICENSE=BSD
+RDEPEND=sys-apps/dtc
+SLOT=0/1.1.0_p20240324
+SRC_URI=https://github.com/riscv-software-src/riscv-isa-sim/archive/3427b459f88d2334368a1abbdf5a3000957f08e8.tar.gz -> spike-1.1.0_p20240324.tar.gz
+_md5_=b0aa0c6ab154246bc10e3560de29a849
