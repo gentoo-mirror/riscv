@@ -8,4 +8,4 @@ dev-qt/qtwebengine 5.15.5_p20220618: Library for rendering dynamic web content i
 mail-client/thunderbird 94.0_beta1: Thunderbird Mail Client
 sys-apps/kexec-tools 2.0.24: Load another kernel from the currently executing Linux kernel
 sys-firmware/u-boot-bin 2022.10: U-boot binary firmware which can be used by qemu as bios
-www-client/chromium 98.0.4750.0: Open-source version of Google Chrome web browser
+www-client/chromium 98.0.4750.0 123.0.6312.58: Open-source version of Google Chrome web browser
