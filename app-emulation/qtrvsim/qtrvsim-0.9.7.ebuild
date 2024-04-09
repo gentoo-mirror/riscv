@@ -14,7 +14,12 @@ SLOT="0"
 KEYWORDS="~amd64"
 
 DEPEND="
-	dev-qt/qtbase:6
+	dev-qt/qtbase:6[gui,widgets]
 	virtual/libelf:=
 "
 RDEPEND="${DEPEND}"
+
+CMAKE_SKIP_TESTS=(
+	# Fails in 0.9.7, but not in master.
+	cli_stalls
+)
