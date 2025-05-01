@@ -4,8 +4,6 @@ app-emulation/riscv-pk 1.0.0_p20240423: RISC-V Proxy Kernel
 app-emulation/spike 1.0.0 1.1.0_p20240324 9999: The RISC-V ISA Simulator
 dev-debug/valgrind 9999: An open-source memory debugger for GNU/Linux
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
-dev-qt/qtwebengine 5.15.5_p20220618: Library for rendering dynamic web content in Qt5 C++ and QML applications
-mail-client/thunderbird 94.0_beta1: Thunderbird Mail Client
 sys-apps/kexec-tools 2.0.24: Load another kernel from the currently executing Linux kernel
 sys-firmware/u-boot-bin 2022.10: U-boot binary firmware which can be used by qemu as bios
 www-client/chromium 135.0.7049.95 135.0.7049.114: Open-source version of Google Chrome web browser
