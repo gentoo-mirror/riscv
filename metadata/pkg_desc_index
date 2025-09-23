@@ -6,4 +6,4 @@ dev-debug/valgrind 9999: An open-source memory debugger for GNU/Linux
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 sys-apps/kexec-tools 2.0.24: Load another kernel from the currently executing Linux kernel
 sys-firmware/u-boot-bin 2022.10: U-boot binary firmware which can be used by qemu as bios
-www-client/chromium 138.0.7204.157: Open-source version of Google Chrome web browser
+www-client/chromium 140.0.7339.127 140.0.7339.185: Open-source version of Google Chrome web browser
